@@ -47,8 +47,8 @@ This project uses Terraform to provision and manage infrastructure in a modular,
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/wesleyfranks/HCL-Terraform-BlankSlate.git
+cd HCL-Terraform-BlankSlate
 ```
 
 ### 2. Initialize Terraform
