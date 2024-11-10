@@ -1,7 +1,7 @@
 
-# Terraform Infrastructure Project
+# HCL Terraform Blank Slate
 
-This project uses Terraform to provision and manage infrastructure in a modular, scalable, and environment-specific structure. The setup is adaptable across various cloud providers, supporting multi-environment configurations like Development and Production.
+This repo is just a blank slate to clone. If you have suggestions, reach out to me on X. @WesleyFranks or do a pull request. I realized I didn't have anything to start with so I built this. 
 
 ## Review Folders and Files Prior to cloning
 
