@@ -1,7 +1,7 @@
 
 # HCL Terraform Blank Slate
 
-This repo is just a blank slate to clone. If you have suggestions, reach out to me on X. <a target="_Blank" rel="noopener noreferrer" href="https://x.com/WesleyFranks">@WesleyFranks</a> or do a pull request. I realized I didn't have anything to start with so I built this. 
+This repo is just a blank slate to clone. The env folders are template folders with nothing in them. If you have suggestions, reach out to me on X. <a target="_Blank" rel="noopener noreferrer" href="https://x.com/WesleyFranks">@WesleyFranks</a> or do a pull request. I realized I didn't have anything to start with so I built this. 
 
 ## Review Folders and Files Prior to cloning
 
